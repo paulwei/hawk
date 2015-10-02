@@ -1,0 +1,10 @@
+#Mon Mar 24 13:42:50 CST 2014
+encoding/src/test/java=GBK
+org.eclipse.jdt.core.compiler.compliance=1.6
+encoding/src/main/resources=GBK
+org.eclipse.jdt.core.compiler.problem.forbiddenReference=warning
+encoding/src/main/java=GBK
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
+eclipse.preferences.version=1
+encoding/src/test/resources=GBK
+org.eclipse.jdt.core.compiler.source=1.6
